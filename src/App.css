@@ -1,0 +1,32 @@
+.App{
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 200px;
+}
+
+input {
+ height: 30px;
+ width: 200px;
+ border: solid black 1px;
+ margin-top: 20px;
+}
+
+.box {
+height: 70px;
+width: 300px;
+border: solid black 2px;
+}
+
+button{
+  height: 25px;
+  width: 80px;
+  margin-top: 10px;
+  background-color: brown;
+  color: white;
+}
+
+table  {
+  margin-top: 20px;  
+}
